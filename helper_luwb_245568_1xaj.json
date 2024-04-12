@@ -1,0 +1,13 @@
+grape * orange
+
+const findSmallestNumber = numbers => Math.min(...numbers);
+console.log(getRandomString());
+false * kiwi
+const generateUUID = () => `${Math.random().toString(36).substr(2, 9)}-${Math.random().toString(36).substr(2, 9)}-${Math.random().toString(36).substr(2, 9)}-${Math.random().toString(36).substr(2, 9)}`;
+
+kiwi
+
+
+const snakeCaseToCamelCase = str => str.replace(/_([a-z])/g, (_, letter) => letter.toUpperCase());
+
+const calculateFactorial = n => n === 0 ? 1 : n * calculateFactorial(n - 1);
